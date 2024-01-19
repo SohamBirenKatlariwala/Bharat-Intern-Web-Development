@@ -4,4 +4,6 @@
 <p> Portfolio </p>
 <p> Weather App </p>
 <p> Netflix Clone </p>
-
+<p> Minimum 2 tasks were required to complete the Internship </p>
+<h1> Internship Description:-</h1>
+<p> Basically, Bharat Intern Web Development was about Front-end Web Development which includes HTML,CSS, JavaScript.</p>
